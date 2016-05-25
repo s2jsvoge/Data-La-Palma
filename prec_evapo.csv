@@ -1,0 +1,16 @@
+Location;Device;Precipitation;Time;Fog precence;Description of wheather;Notes;Date
+2;2.V;276;14:47;Yes (very high);Regen + Nebel;;190316
+3;3.V;382;16:09;Yes (very high);Regen + Nebel;;190316
+1;1.V;260;10:01;;;;200316
+2;2.V;590;15:17;;;;200316
+3;3.V;657;;;;;200316
+1;1.V;98;10:15;No;sunny, few clouds;;210316
+2;2.V;96;15:12;No;sunny, few clouds;;210316
+1;1.V;90;10:00;No;sunny;;220316
+2;2.V;96;13:06;No;cloudy;;220316
+2;2b.V;90;13:20;No;cloudy;;220316
+3;3.V;96;16:20;No;sunny;;220316
+1;1.V;96;;;;;230316
+2;2.V;96;;;;;230316
+2;2b.V;98;12:55;;cloudy;;230316
+3;3.V;100;14:40;;sunny;;230316

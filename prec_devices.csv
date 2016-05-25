@@ -1,0 +1,244 @@
+Location ;Tree;Device;Precipitation [ml];Time;Fog precence;Description of wheather;Notes;Date
+1;11;111;0;11:26;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;11;112;0;11:26;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;11;113;0;11:26;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;12;121;0;11:30;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;12;122;0;11:30;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;12;123;0;11:30;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;13;131;0;11:32;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;13;132;0;11:32;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+1;13;133;0;11:32;No;Clear sky, few clouds;Seiten/Boden beschlagen;150316
+2;21;211;0;13:09;No;Sunny;Nicht feucht;150316
+2;21;212;0;13:09;No;Sunny;Nicht feucht;150316
+2;21;213;0;13:09;No;Sunny;Nicht feucht;150316
+2;22;221;0;13:16;No;Sunny;feuchter Boden;150316
+2;22;222;0;13:16;No;Sunny;trocken;150316
+2;22;223;0;13:16;No;Sunny;trocken;150316
+2;23;231;0;13:30;No;Sunny;trocken;150316
+2;23;232;0;13:30;No;Sunny;trocken;150316
+2;23;233;0;13:30;No;Sunny;trocken;150316
+3;31;311;0;15:28;No;Clear sunny;trocken;150316
+3;31;312;0;15:28;No;Clear sunny;trocken;150316
+3;31;313;0;15:28;No;Clear sunny;trocken;150316
+3;32;321;0;15:33;No;Clear sunny;trocken;150316
+3;32;322;0;15:33;No;Clear sunny;trocken;150316
+3;32;323;0;15:33;No;Clear sunny;trocken;150316
+3;33;311;0;15:34;No;Clear sunny;trocken;150316
+3;33;332;0;15:34;No;Clear sunny;trocken;150316
+3;33;333;0;15:34;No;Clear sunny;trocken;150316
+1;11;111;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;11;112;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;11;113;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;12;121;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;12;122;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;12;123;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;13;131;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;13;132;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+1;13;133;0;15:15;No;Clear sky, few clouds;trockener Boden und Nadeln;160316
+2;21;211;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;21;212;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;21;213;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;22;221;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;22;222;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;22;223;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;23;231;0;17:35;No;diesig, no clouds, no clear sky;;160316
+2;23;232;0;17:40;No;diesig, no clouds, no clear sky;;160316
+2;23;233;0;17:40;No;diesig, no clouds, no clear sky;;160316
+3;31;311;0;18:11;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;31;312;0;18:12;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;31;313;0;18:13;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;32;321;0;18:14;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;32;322;0;18:15;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;32;323;0;18:15;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;33;311;0;18:15;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;33;332;0;18:15;No;leicht bewölkt (Schleierwolken), sunny;;160316
+3;33;333;0;18:15;No;leicht bewölkt (Schleierwolken), sunny;;160316
+1;11;111;0;12:40;No;sunny, no clouds;;170316
+1;11;112;0;12:40;No;sunny, no clouds;;170316
+1;11;113;0;12:40;No;sunny, no clouds;;170316
+1;12;121;0;12:55;No;sunny, no clouds;;170316
+1;12;122;0;12:55;No;sunny, no clouds;;170316
+1;12;123;0;12:55;No;sunny, no clouds;;170316
+1;13;131;0;13:13;No;sunny, no clouds;;170316
+1;13;132;0;13:13;No;sunny, no clouds;;170316
+1;13;133;0;13:13;No;sunny, no clouds;;170316
+2;21;211;0;15:10;No;sunny, no clouds;;170316
+2;21;212;0;15:10;No;sunny, no clouds;;170316
+2;21;213;0;15:10;No;sunny, no clouds;;170316
+2;22;221;0;15:20;No;sunny, no clouds;;170316
+2;22;222;0;15:20;No;sunny, no clouds;;170316
+2;22;223;0;15:20;No;sunny, no clouds;;170316
+2;23;231;0;15:24;No;sunny, no clouds;;170316
+2;23;232;0;15:24;No;sunny, no clouds;;170316
+2;23;233;0;15:24;No;sunny, no clouds;;170316
+3;31;311;NA;;NA;NA;;170316
+3;31;312;NA;;NA;NA;;170316
+3;31;313;NA;;NA;NA;;170316
+3;32;321;NA;;NA;NA;;170316
+3;32;322;NA;;NA;NA;;170316
+3;32;323;NA;;NA;NA;;170316
+3;33;311;NA;;NA;NA;;170316
+3;33;332;NA;;NA;NA;;170316
+3;33;333;NA;;NA;NA;;170316
+1;11;111;NA;;NA;NA;;180316
+1;11;112;NA;;NA;NA;;180316
+1;11;113;NA;;NA;NA;;180316
+1;12;121;NA;;NA;NA;;180316
+1;12;122;NA;;NA;NA;;180316
+1;12;123;NA;;NA;NA;;180316
+1;13;131;NA;;NA;NA;;180316
+1;13;132;NA;;NA;NA;;180316
+1;13;133;NA;;NA;NA;;180316
+2;21;211;0;12:10;Yes;foggy;dry soil, dry mosses;180316
+2;21;212;0;12:10;Yes;foggy;dry soil, dry mosses;180316
+2;21;213;0;12:10;Yes;foggy;dry soil, dry mosses;180316
+2;22;221;0;11:50;Yes;foggy;dry soil, dry mosses;180316
+2;22;222;0;11:50;Yes;foggy;dry soil, dry mosses;180316
+2;22;223;0;11:50;Yes;foggy;dry soil, dry mosses;180316
+2;23;231;0;11:30;Yes;foggy;dry soil, dry mosses;180316
+2;23;232;0;11:30;Yes;foggy;dry soil, dry mosses;180316
+2;23;233;0;11:30;Yes;foggy;dry soil, dry mosses;180316
+3;31;311;0;10:15;No;sunny, no clouds;dry soil;180316
+3;31;312;0;10:15;No;sunny, no clouds;dry soil;180316
+3;31;313;0;10:15;No;sunny, no clouds;dry soil;180316
+3;32;321;0;10:25;No;sunny, no clouds;dry soil;180316
+3;32;322;0;10:25;No;sunny, no clouds;dry soil;180316
+3;32;323;0;10:25;No;sunny, no clouds;dry soil;180316
+3;33;311;0;10:30;No;sunny, no clouds;dry soil;180316
+3;33;332;0;10:30;No;sunny, no clouds;dry soil;180316
+3;33;333;0;10:30;No;sunny, no clouds;dry soil;180316
+1;11;111;6,7;10:01;No;Cloudy, sunny, bit rainy, am Ende ziehen Nebelwolken auf;;190316
+1;11;112;4,2;10:03;No;Cloudy, sunny, bit rainy, am Ende ziehen Nebelwolken auf;;190316
+1;11;113;0;10:05;No;Cloudy, sunny, bit rainy, am Ende ziehen Nebelwolken auf;;190316
+1;12;121;29,2;10:20;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+1;12;122;54,6;10:28;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+1;12;123;11;10:22;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+1;13;131;3;10:34;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+1;13;132;14,2;10:35;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+1;13;133;26,2;10:38;No;Cloudy, am Ende ziehen Nebelwolken auf;;190316
+2;21;211;58;13:47;Yes;Nieselregen, starker Nebel;;190316
+2;21;212;74;13:50;Yes;Nieselregen, starker Nebel;;190316
+2;21;213;60;13:55;Yes;Nieselregen, starker Nebel;;190316
+2;22;221;37;14:03;Yes;Nieselregen, starker Nebel;;190316
+2;22;222;97;14:06;Yes;Nieselregen, starker Nebel;;190316
+2;22;223;182;14:10;Yes;Nieselregen, starker Nebel;;190316
+2;23;231;60;14:35;Yes;Nieselregen, starker Nebel;;190316
+2;23;232;76;14:40;Yes (very high);Regen + Nebel;;190316
+2;23;233;98;14:45;Yes (very high);Regen + Nebel;;190316
+3;31;311;278;15:25;Yes (very high);Regen + Nebel;;190316
+3;31;312;359;15:28;Yes (very high);Regen + Nebel;;190316
+3;31;313;166;15:31;Yes (very high);Regen + Nebel;;190316
+3;32;321;194;15:40;Yes (very high);Regen + Nebel;;190316
+3;32;322;312;15:42;Yes (very high);Regen + Nebel;;190316
+3;32;323;140;15:45;Yes (very high);Regen + Nebel;;190316
+3;33;311;484;15:50;Yes (very high);Regen + Nebel;;190316
+3;33;332;354;15:53;Yes (very high);Regen + Nebel;;190316
+3;33;333;240;15:58;Yes (very high);Regen + Nebel;;190316
+1;11;111;118;10:18;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;11;112;106;10:20;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;11;113;53;10:26;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;12;121;174;10:31;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;12;122;644;10:37;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;12;123;148;10:42;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;13;131;146;10:46;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;13;132;236;10:51;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+1;13;133;435;10:55;No;cloudy, Nebel zieht auf;Trichter beschlagen;200316
+2;21;211;292;13:55;Yes (little);cloudy;wet soil;200316
+2;21;212;255;14:03;Yes (little);cloudy;wet soil;200316
+2;21;213;282;14:10;Yes (little);cloudy;wet soil;200316
+2;22;221;158;14:18;Yes (little);cloudy;wet soil;200316
+2;22;222;278;14:24;Yes (little);cloudy;wet soil;200316
+2;22;223;594;14:32;Yes (little);cloudy;wet soil;200316
+2;23;231;250;15:25;No;cloudy;wet soil;200316
+2;23;232;284;15:30;No;cloudy;wet soil;200316
+2;23;233;292;15:35;No;cloudy;wet soil;200316
+3;31;311;650;16:21;No;very cloudy;wet soil;200316
+3;31;312;646;16:27;No;very cloudy;wet soil;200316
+3;31;313;474;16:32;Yes (slightly);very cloudy;wet soil, droplets;200316
+3;32;321;442;16:42;Yes (slightly);very cloudy;wet soil;200316
+3;32;322;NA;16:44;Yes (slightly);very cloudy;632, Messfehler;200316
+3;32;323;359;16:50;Yes (slightly);very cloudy;wet soil;200316
+3;33;311;925;16:57;Yes (slightly);very cloudy;wet soil;200316
+3;33;332;786;17:05;Yes (slightly);very cloudy;wet soil;200316
+3;33;333;584;17:09;Yes (slightly);very cloudy;wet soil;200316
+1;11;111;1;10:22;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;11;112;1;10:25;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;11;113;0,5;10:28;No;sunny, few clouds, windy;"Boden noch feucht, aber weniger als am Vortag; Kanister von innen beschlagen";210316
+1;12;121;5,8;10:30;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;12;122;21,4;10:34;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;12;123;2,8;10:37;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;13;131;0,2;10:43;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;13;132;0;10:47;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+1;13;133;0;10:52;No;sunny, few clouds, windy;Boden noch feucht, aber weniger als am Vortag;210316
+2;21;211;0;14:03;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;21;212;0;14:05;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;21;213;0;14:08;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;22;221;0;14:15;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;22;222;0;14:18;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;22;223;0;14:20;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;23;231;0;14:50;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;23;232;0;14:55;No;sunny, cloudy;Trichter leicht beschlagen;210316
+2;23;233;0;15:00;No;sunny, cloudy;Trichter leicht beschlagen;210316
+3;31;311;0;;No;;;210316
+3;31;312;0;;No;;;210316
+3;31;313;0;;No;;;210316
+3;32;321;0;;No;;;210316
+3;32;322;0;;No;;;210316
+3;32;323;0;;No;;;210316
+3;33;311;0;;No;;;210316
+3;33;332;0;;No;;;210316
+3;33;333;0;;No;;;210316
+1;11;111;0;09:50;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;11;112;0;10:05;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;11;113;0;10:08;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;12;121;0;10:15;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;12;122;0;10:20;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;12;123;0;10:25;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;13;131;0;10:30;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;13;132;0;10:33;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+1;13;133;0;10:35;No;sunny, few clouds;dry soil, Trichter nicht einmal beschlagen;220316
+2;21;211;0;14:03;No;bewölkt;Boden trockener als Vortage;220316
+2;21;212;0;14:05;No;bewölkt;Boden trockener als Vortage;220316
+2;21;213;0;14:07;No;bewölkt;Boden trockener als Vortage;220316
+2;22;221;0;14:12;No;bewölkt;Boden trockener als Vortage;220316
+2;22;222;0;14:15;No;bewölkt;Boden trockener als Vortage;220316
+2;22;223;0;14:18;No;bewölkt;Boden trockener als Vortage;220316
+2;23;231;0;14:25;No;bewölkt;Boden trockener als Vortage;220316
+2;23;232;0;14:30;No;bewölkt;Boden trockener als Vortage;220316
+2;23;233;0;14:35;No;bewölkt;Boden trockener als Vortage;220316
+3;31;311;0;15:40;No;sunny, no clouds;;220316
+3;31;312;0;15:41;No;sunny, no clouds;;220316
+3;31;313;0;15:45;No;sunny, no clouds;;220316
+3;32;321;0;15:50;No;sunny, no clouds;;220316
+3;32;322;0;15:52;No;sunny, no clouds;;220316
+3;32;323;0;15:53;No;sunny, no clouds;;220316
+3;33;311;0;15:56;No;sunny, no clouds;;220316
+3;33;332;0;15:58;No;sunny, no clouds;;220316
+3;33;333;0;16:00;No;sunny, no clouds;;220316
+1;11;111;0;09:50;No;abwechselnd sonnig und wolkig;;230316
+1;11;112;0;09:51;No;abwechselnd sonnig und wolkig;;230316
+1;11;113;0;09:53;No;abwechselnd sonnig und wolkig;;230316
+1;12;121;0;09:56;No;abwechselnd sonnig und wolkig;;230316
+1;12;122;0;09:57;No;abwechselnd sonnig und wolkig;;230316
+1;12;123;0;09:57;No;abwechselnd sonnig und wolkig;;230316
+1;13;131;0;10:00;No;abwechselnd sonnig und wolkig;;230316
+1;13;132;0;10:02;No;abwechselnd sonnig und wolkig;;230316
+1;13;133;0;10:03;No;abwechselnd sonnig und wolkig;;230316
+2;21;211;0;12:40;No;cloudy;;230316
+2;21;212;0;12:43;No;cloudy;;230316
+2;21;213;0;12:45;No;cloudy;;230316
+2;22;221;0;13:02;No;cloudy;;230316
+2;22;222;0;13:03;No;cloudy;;230316
+2;22;223;0;13:05;No;cloudy;;230316
+2;23;231;0;13:10;No;cloudy + sunny;;230316
+2;23;232;0;13:15;No;cloudy + sunny;;230316
+2;23;233;0;13:16;No;cloudy + sunny;;230316
+3;31;311;0;14:15;No;sunny;;230316
+3;31;312;0;14:15;No;sunny;;230316
+3;31;313;0;14:15;No;sunny;;230316
+3;32;321;0;14:45;No;sunny;;230316
+3;32;322;0;14:47;No;sunny;;230316
+3;32;323;0;14:48;No;sunny;;230316
+3;33;311;0;14:50;No;sunny;;230316
+3;33;332;0;14:52;No;sunny;;230316
+3;33;333;0;14:55;No;sunny;;230316

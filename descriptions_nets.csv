@@ -1,0 +1,10 @@
+Location;Area;Forest Type;Aspect of Location;Position at slope;Notes to location;Net;GPS Rechtswert ;GPS Hochwert;Altitude;Aspect of Net;Mesh density [%];Distance to funnel [cm];Canopy density [65°];Species_1;Species_2;Species_3
+1;24*29*21;Mixed Forest;161° SE;am Hang;Boden dick mit Nadeln bedeckt;11;28R 0227436;3180796;1230;140° SE;85;22;80,99;Pteridium aquifolium;Pinus canariensis;Myrica faya
+1;24*29*22;Mixed Forest;161° SE;am Hang;Boden dick mit Nadeln bedeckt;12;28R 0227443;3180798;1226;150° SE;60;29;81,29;Pteridium aquifolium;Pinus canariensis;Myrica faya
+1;24*29*23;Mixed Forest;161° SE;am Hang;Boden dick mit Nadeln bedeckt;13;28R 0227473;3180806;1225;150° SE;40;51;81,82;Pinus canariensis;Myrica faya;
+2;30*22*22;Laurel Forest;40° NE;am Hang;steiler Hang, dichter Bestand, dichter Unterwuchs aus Farnen und jungen Bäumen;21;28R 0223997;3170038;1244;80° NE;85;36;53,77;Myrica faya;Laurus novocanariensis;Geranium reuteri
+2;30*22*22;Laurel Forest;40° NE;am Hang;steiler Hang, dichter Bestand, dichter Unterwuchs aus Farnen und jungen Bäumen;22;28R 0223999;3170042;1243;80° NE;60;22;70,23;Myrica faya;Laurus novocanariensis;
+2;30*22*22;Laurel Forest;40° NE;am Hang;steiler Hang, dichter Bestand, dichter Unterwuchs aus Farnen und jungen Bäumen;23;28R 0223999;3170038;1243;70° NE;40;36;77,94;Laurus novocanariensis;Triopteris oligodonto;
+3;12*32*26;Pine Forest;60,5° NE;am Hang;Myrica Faya + Erica arborea im Unterwuchs;31;28R 0223175;3168040;1481;360° N;85;22;62,32;Pinus canariensis;;
+3;12*32*26;Pine Forest;60,5° NE;am Hang;Myrica Faya + Erica arborea im Unterwuchs;32;28R 0223176;3168045;1484;355° N;60;2;50,38;Pinus canariensis;;
+3;12*32*26;Pine Forest;60,5° NE;am Hang;Myrica Faya + Erica arborea im Unterwuchs;33;28R 0223162;3168042;1481;350° N;40;5;79,63;Pinus canariensis;;
