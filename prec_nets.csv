@@ -1,0 +1,82 @@
+Location;Net;Precipitation;Time;FogPrecence;Description of wheather;Notes;Date
+1;11;0;11:23;No;clear sky , few clouds;;150316
+1;12;0;;No;clear sky , few clouds;;150316
+1;13;0;;No;clear sky , few clouds;;150316
+2;21;0;13:16;No;sunny, clear sky;feuchter Boden;150316
+2;22;0;;No;sunny, clear sky;feuchter Boden;150316
+2;23;0;;No;sunny, clear sky;feuchter Boden;150316
+3;31;0;15:36;No;sunny, clear sky;trocken;150316
+3;32;0;;No;sunny, clear sky;trocken;150316
+3;33;0;;No;sunny, clear sky;trocken;150316
+1;11;0;14:34;No;sunny + diesig;staubtrocken;160316
+1;12;0;14:34;No;sunny + diesig;staubtrocken;160316
+1;13;0;14:34;No;sunny + diesig;staubtrocken;160316
+2;21;0;17:40;No;diesig, no sun, but also no clouds;;160316
+2;22;0;17:40;No;diesig, no sun, but also no clouds;;160316
+2;23;0;17:40;No;diesig, no sun, but also no clouds;;160316
+3;31;0;18:10;No;diesig, no sun, but also no clouds;;160316
+3;32;0;18:10;No;diesig, no sun, but also no clouds;;160316
+3;33;0;18:10;No;diesig, no sun, but also no clouds;;160316
+1;11;0;12:04;No;sunny, no clouds;dry needles at ground;170316
+1;12;0;12:04;No;sunny, no clouds;dry needles at ground;170316
+1;13;0;12:04;No;sunny, no clouds;dry needles at ground;170316
+2;21;0;;No;sunny, no clouds;;170316
+2;22;0;;No;sunny, no clouds;;170316
+2;23;0;;No;sunny, no clouds;;170316
+3;31;NA;;;;;170316
+3;32;NA;;;;;170316
+3;33;NA;;;;;170316
+1;11;NA;;;;;180316
+1;12;NA;;;;;180316
+1;13;NA;;;;;180316
+2;21;0;10:40;no;sunny;very dry soil;180316
+2;22;0;10:40;no;sunny;;180316
+2;23;0;10:40;no;sunny;;180316
+3;31;0;12:20;yes;foggy;dry soil;180316
+3;32;0;12:20;yes;foggy;;180316
+3;33;0;12:20;yes;foggy;;180316
+1;11;10;09:24;no;cloudy + rainy;Boden relativ trocken;190316
+1;12;9,8;09:44;no;cloudy + rainy;Worms;190316
+1;13;3,8;09:47;no;cloudy + rainy;;190316
+2;21;348;14:15;yes;Nieselregen, neblig;Fog precence: yes (lot);190316
+2;22;200;14:20;yes;Nieselregen, neblig;Fog precence: yes (lot);190316
+2;23;146;14:25;yes;Nieselregen, neblig;Fog precence: yes (lot);190316
+3;31;297;16:15;yes;Nieselregen, neblig;Fog precence: yes (lot);190316
+3;32;NA;16:18;yes;Nieselregen, neblig;394 ml + Messfehler, Fog precence: yes (lot);190316
+3;33;418;16:22;yes;Nieselregen, neblig;Fog precence: yes (lot);190316
+1;11;137;09:45;no;cloudy;;200316
+1;12;138;09:48;no;cloudy;;200316
+1;13;111;09:55;no;cloudy;;200316
+2;21;850;14:40;yes;cloudy;;200316
+2;2.;437;14:48;yes;cloudy;;200316
+2;23;433;15:02;yes;cloudy;Fog precence: yes (low);200316
+3;31;614;17:27;yes;cloudy, 100 %;Fog precence: slightly;200316
+3;32;524;17:32;yes;cloudy, 100 %;;200316
+3;33;530;17:38;yes;cloudy, 100 %;Fog precence: almost not;200316
+1;11;0,6;10:05;no;sonnig, leicht bewölkt, windig;;210316
+1;12;0,5;10:10;no;sonnig, leicht bewölkt, windig;precipitation: <0,5, keine Messung nur einen Tropfen;210316
+1;13;0;10:12;no;sonnig, leicht bewölkt, windig;trocken, kein Beschlag an Trichter, wet soil;210316
+2;21;0;14:30;no;sonnig, leicht bewölkt;trocken, kein Beschlag an Trichter, wet soil;210316
+2;22;0;14:35;no;sonnig, leicht bewölkt;trocken, kein Beschlag an Trichter, wet soil;210316
+2;23;0;14:38;no;sonnig, leicht bewölkt;trocken, kein Beschlag an Trichter, wet soil;210316
+3;31;0;16:45;no;cloudy, keine Sonne, kein Nebel;;210316
+3;32;0;16:45;no;cloudy, keine Sonne, kein Nebel;;210316
+3;33;0;16:45;no;cloudy, keine Sonne, kein Nebel;;210316
+1;11;0;09:33;no;sunny, few clouds;dry ground;220316
+1;12;0;09:33;no;sunny, few clouds;;220316
+1;13;0;09:34;no;sunny, few clouds;;220316
+2;21;0;14:40;no;bewölkt;;220316
+2;22;0;14:45;no;bewölkt;;220316
+2;23;0;14:50;no;bewölkt;;220316
+3;31;0;16:10;no;sunny;;220316
+3;32;0;16:12;no;sunny;;220316
+3;33;0;16:15;no;sunny;;220316
+1;11;0;09:38;no;cloudy, Nieselregen;;230316
+1;12;0;09:40;no;cloudy, Nieselregen;;230316
+1;13;0;09:42;no;cloudy, Nieselregen;;230316
+2;21;0;12:55;no;cloudy;;230316
+2;22;0;12:58;no;cloudy;;230316
+2;23;0;13:00;no;cloudy;;230316
+3;31;0;15:00;no;sunny;;230316
+3;32;0;15:02;no;sunny;;230316
+3;33;0;15:05;no;sunny;;230316
